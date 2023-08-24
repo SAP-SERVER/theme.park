@@ -11,6 +11,5 @@ let custom_text_header = `
 ||S |||A |||P |||- |||S |||E |||R |||V |||E |||R ||
 ||__|||__|||__|||__|||__|||__|||__|||__|||__|||__||
 |/__\|/__\|/__\|/__\|/__\|/__\|/__\|/__\|/__\|/__\|
-                                                                 </pre> </div>
 `;
 document.getElementById("login").innerHTML += custom_text_header
