@@ -267,6 +267,7 @@ h1 {
     padding: 2rem;
     border-radius: 0;
     margin: 0rem 1rem 0rem 1rem;
+    scale: 80%;
 }
 logo.angle {
     -webkit-box-shadow: inset 0px 0px 0px 2px var(--text-color) !important;
