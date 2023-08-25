@@ -36,7 +36,7 @@
 visibility: hidden;
 }
 
-#login > div.content > h1 {
+#login > div.content > h1:after {
            visibility: visible;
             position: absolute;
             top: 0;
