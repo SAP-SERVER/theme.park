@@ -31,3 +31,7 @@
 --text-shadow-color: #37f592;
 --box-shadow: 0 0 15px;
 }
+
+#login > div.content > h1 {
+visibility: hidden;
+}
